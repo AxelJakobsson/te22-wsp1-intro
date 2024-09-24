@@ -53,3 +53,10 @@ app.get('/', (req, res) => {
 &nbsp;&nbsp;&nbsp;&nbsp;        title: "Test    ", <br>
 &nbsp;&nbsp;&nbsp;&nbsp;    })<br>
 })
+
+
+
+
+### Har flyttat alla routes från server filen till index.js inuti Routes mappen
+
+Har skapat en search sak med filter och en 404 error sak 
