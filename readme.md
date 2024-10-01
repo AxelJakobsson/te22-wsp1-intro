@@ -59,4 +59,4 @@ app.get('/', (req, res) => {
 
 ### Har flyttat alla routes från server filen till index.js inuti Routes mappen
 
-Har skapat en search sak med filter och en 404 error sak 
+Har skapat en search sak med filter och en 404 error sak  

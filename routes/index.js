@@ -71,4 +71,8 @@ router.get("/ytub", (req, res) => {
   });
 });
 
+router.get("/calc", (req, res) => {
+  res.render("calc.njk")
+})
+
 export default router;
